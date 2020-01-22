@@ -1,0 +1,13 @@
+1. Peter Naur is famously quoted as saying data science “deals with the data, while the actual relation of data to what they represent should occur in other fields.” Why do you think he’d choose to frame data science this way? What might be problematic in this statement?  
+
+While thinking about Data Science and how it works within real world application, it is easy to think that the sole purpose may be to look at data, clean it up then organize it when in reality data has little to no meaning without the in depth analysis that is done following the cleaning and sorting of data. I think that he chose to frame it in this way as a way to define data science and intends for data scienctiest to look at data and be able to pull out the imporatant things within the data. In a real world application, a data scientist should be able to grab thew information from the data and interprit it for other fields so that they can find  solutions to the issues that the data proposes. 
+
+2. In 2002, data science began to gain momentum as its own dedicated subfield. Compare and contrast the definitions of data science at that time, exemplified by the National Science Foundation, Data Science Journal, and Journal of Data Science, to those from Tukey & Naur in the 1970s.
+
+Data Science since 2002 yae
+
+
+
+3.  Data continues to grow at an exponential rate today. List at least three technological factors that contribute to this growth. List three major sources of data that contribute to this growth.
+
+ 
