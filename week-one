@@ -1,13 +1,47 @@
+Worked with Priya and Sofia 
+
+
 1. Peter Naur is famously quoted as saying data science “deals with the data, while the actual relation of data to what they represent should occur in other fields.” Why do you think he’d choose to frame data science this way? What might be problematic in this statement?  
 
 While thinking about Data Science and how it works within real world application, it is easy to think that the sole purpose may be to look at data, clean it up then organize it when in reality data has little to no meaning without the in depth analysis that is done following the cleaning and sorting of data. I think that he chose to frame it in this way as a way to define data science and intends for data scienctiest to look at data and be able to pull out the imporatant things within the data. In a real world application, a data scientist should be able to grab thew information from the data and interprit it for other fields so that they can find  solutions to the issues that the data proposes. 
 
 2. In 2002, data science began to gain momentum as its own dedicated subfield. Compare and contrast the definitions of data science at that time, exemplified by the National Science Foundation, Data Science Journal, and Journal of Data Science, to those from Tukey & Naur in the 1970s.
 
-Data Science since 2002 yae
+Data Science since 2002 data science was seen 
 
 
 
 3.  Data continues to grow at an exponential rate today. List at least three technological factors that contribute to this growth. List three major sources of data that contribute to this growth.
 
+Three major technology advantages that we see in the new exponentially data is personal computers, personal cell-phones as well as the development of machine learning. As these new technologies come out and are developed we get to see how many more data points are made available to contribute to data. Three major sources of data that is changing is e-commerce(tracking data), social media platforms (Twitter and Facebook) and ad-tech data have all made a significant impact to gaining more data. These three things have made it easy to start creating profiles among people and allowing large companies to build a profile based on things that they can log. This makes for a large bit of data that is growing at an exponential rate. 
+
+4. How would you move into each of the following directories from the shell? Why do you think it is important to have shortcuts for each of these directories for navigating the file structure?
+A. Root-  cd/ 
+B. Home - cd ~
+C. Parent - cd.. 
+
  
+
+5. Briefly describe what the following set of commands would achieve. What process would happen and what would be printed to the command line?
+
+cd ~   - moves back into home directory 
+mkdir ./problem_set_1   - Gets you into problem set one which is in the mkdir dictionary 
+cd .. - This gets you back to the parent dictionary 
+pwd - this prints the working dictionary 
+
+
+6. Assume all of the directories below are valid directories (e.g., they exist and we have access to them). What would the following print out?
+
+cd /usrs/INFO3401/../homework/./problem1 
+pwd
+
+the cd goes into the correct folder into the correct dictionary, the pwd goes and prints out everything in PWD. 
+
+
+7. What set of commands would you use to achieve the following:
+You've found yourself in a situation where your python program is trying to parse files in a directory and is throwing an error. You think it might be a permissions issue (i.e., you don't have permission to access the files in that directory) and need to verify the permissions on all files in that directory. The directory is in your home directory under the "datasets/activedata" directory. Make no assumptions about what directory you are currently working in. 
+
+cd~ 
+ls 
+datasets
+cd /dataset/activatedata
